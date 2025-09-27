@@ -11,7 +11,7 @@ public class Aula003TiposPrimitivosExercicio {
     public static void main(String[] args) {
         String name = "Carlos";
         String endereco = "Rua 123456";
-        int data = 27092025;
+        String data = "27/09/2025";
         double sal = 2000.00;
 
         System.out.println("Eu "+name+", morando no endereço "+endereco+", confirmo que recebi o salário de R$"+sal+", na data "+data);
