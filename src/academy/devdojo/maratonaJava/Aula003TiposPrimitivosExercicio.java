@@ -14,7 +14,8 @@ public class Aula003TiposPrimitivosExercicio {
         String data = "27/09/2025";
         double sal = 2000.00;
 
-        System.out.println("Eu "+name+", morando no endereço "+endereco+", confirmo que recebi o salário de R$"+sal+", na data "+data);
+        String relatorio = "Eu "+name+", morando no endereço "+endereco+", confirmo que recebi o salário de R$"+sal+", na data "+data;
+        System.out.println(relatorio);
 
     }
 }
